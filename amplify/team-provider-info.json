@@ -10,6 +10,11 @@
       "StackName": "amplify-conversoretiquetas-dev-5848f",
       "StackId": "arn:aws:cloudformation:sa-east-1:418272766912:stack/amplify-conversoretiquetas-dev-5848f/f3406ed0-9934-11ef-8d57-0204b95814bf",
       "AmplifyAppId": "d3mmaihxxpmh22"
+    },
+    "categories": {
+      "auth": {
+        "conversoretiquetasac4063e1": {}
+      }
     }
   }
 }
